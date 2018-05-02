@@ -1,0 +1,17 @@
+tsc-v to check version 2.8.1
+npm install -g typescript
+
+
+
+
+cd = to change the directory/folder
+  ex= cd 01_App enter
+
+dir= to list out the files and folders in the current dir/folder
+
+cd.. = to go to parents folder
+
+
+to compile ts 
+
+tsc ./app.ts  enter
